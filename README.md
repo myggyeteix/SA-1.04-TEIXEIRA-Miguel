@@ -3,7 +3,7 @@ Je m'appelle Miguel, étudiant en BUT Réseaux et Télécommunications à l'IUT 
 Ce dépôt regroupe la description de mes projets web et informatiques.
 
 ## Projets
-- [Site Formule 1](site-f1.md)
+- [Site de Formule 1](site-f1.md)
 - [Site de covoiturage](site-covoiturage.md)
 - [Site de recherche de formations](site-formations.md)
 - [Portfolio](portfolio.md)
